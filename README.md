@@ -4,6 +4,8 @@ This application leverages AI to help nurses with scheduling patient appointment
 
 Before start a conversation with the AI Assistant, the nurse must provide a patient ID that will be used to retrieve the patient data. Once the patient data has been retrieved, the AI Assistant is initialized allowing the conversation to start.
 
+To access the Nurse AI Assistant, click [here](https://nataliatenoriomaia-nurse-ai-assistant-app-jffmk8.streamlit.app/).
+
 If you want to run this app in your machine, git clone this repo and follow the instructions below.
 
 1. Create a virtual environment preferrably with python 3.11 to avoild packages conflicts
